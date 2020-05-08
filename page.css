@@ -1,0 +1,7 @@
+body{
+    font-family: 'Bitter', serif;
+}
+
+#hnav{
+    display: flex;
+}
